@@ -35,29 +35,32 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interest is in prediction and design of functional materials with computational chemistry or machine learning techniques, focusing on covalent organic frameworks (COFs) and metal-organic frameworks (MOFs), especially their electronic structures, magnetic, catalytic and charge transport properties.
+        My research interest is in prediction and design of functional materials with computational chemistry and machine learning techniques, focusing on covalent organic frameworks (COFs) and metal-organic frameworks (MOFs), especially their electronic structures, magnetic, catalytic and charge transport properties.
     design:
       columns: '1'
-  # - block: collection
+  #- block: collection
   #  id: papers
   #  content:
   #    title: Featured Publications
   #    filters:
   #      folders:
   #        - publication
-  #      featured_only: true
+  #      #featured_only: false
   #  design:
-  #    view: article-grid
+  #    view: card
   #    columns: 2
   - block: collection
     id: papers
     content:
+      count: 6
+      sort_by: weight
+      sort_ascending: true
       title: Recent Publications
       text: ""
       filters:
         folders:
           - publication
-        exclude_featured: false
+        #exclude_featured: True
     design:
       view: citation
   - block: markdown
