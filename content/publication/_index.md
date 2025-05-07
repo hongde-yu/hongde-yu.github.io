@@ -19,19 +19,20 @@ sections:
           - publication
         #exclude_featured: True
     design:
-      view: citation
-  - block: collection
-    content:
-      count: 1000
-      sort_by: weight
-      sort_ascending: true
-      title: "Publications (example for figure)"
-      text: ""
-      filters:
-        folders:
-          - publication
-        #exclude_featured: True
-    design:
-      columns: '2'
-      view: card
+      columns: 2
+      view: cardtest
+    
+  #- block: collection
+  #  content:
+  #    count: 1000
+  #    sort_by: weight
+  #    sort_ascending: true
+  #    title: "Publications"
+  #    text: ""
+  #    filters:
+  #      folders:
+  #        - publication
+  #      #exclude_featured: True
+  #  design:
+  #    view: citation
 ---
