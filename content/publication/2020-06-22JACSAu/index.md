@@ -21,7 +21,7 @@ publication: "*JACS Au, 2*(8), 1848–1856"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: "Hongde Yu, Dong Wang (2023). JACS Au, 2(8), 1848–1856."
+# summary: 
 
 abstract: Photocatalytic hydrogen generation is a promising solution for renewable energy production and plays a role in achieving carbon neutrality. Covalent organic frameworks (COFs) with highly designable backbones and inherent pores have emerged as novel photocatalysts, yet the strong excitonic effect in COFs can impede the promotion of energy conversion efficiency. Here, we propose a facile approach to suppress the excitonic effect in COFs, which is by narrowing the band gap and increasing the dielectric screening via a rational backbone design and chemical modifications. Based on the GW-BSE method, we uncover a linear relationship between the electronic dielectric constant and the inverse square of the optical band gap of COFs of the Lieb lattice. We further demonstrate that both reduced exciton binding energy and enhanced sunlight absorption can be simultaneously realized in COFs with a narrow band gap. Specifically, we show that one of our designed COFs whose exciton binding energy is nearly half that of g-C3N4 is capable of metal-free hydrogen production under near-infrared light irradiation. Our results showcase an effective method to suppress the excitonic effect in COFs and also pave the way for their applications in photocatalytic, photovoltaic, and other related solar energy conversions.
 
