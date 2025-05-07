@@ -19,7 +19,7 @@ sections:
           - publication
         #exclude_featured: True
     design:
-      view: community/cardtest
+      view: community/publication_detail
       columns: 1
     
   #- block: collection
