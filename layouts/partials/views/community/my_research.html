@@ -39,13 +39,13 @@
           class="inline-block text-xs font-medium tracking-wider uppercase text-primary-700 dark:text-primary-300">{{ .Page.LinkTitle }}</span></a>
         {{ end }}
       </div>
-      <div class="text-3xl font-semibold leading-snug tracking-tight dark:text-white">
+      <h2 class="text-xg font-semibold leading-snug tracking-tight dark:text-white">
         <a><span
         class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">
            {{- $item.Title -}}
            {{ if $target }}{{ partial "functions/get_icon" (dict "name" "arrow-top-right-on-square" "attributes" "style=\"height: 1em;\" class=\"inline-flex h-6 w-6 pl-2\"") }}{{ end }}
           </span></a>
-      </div>
+      </h2>
 
       <!-- show all
       <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a>
@@ -54,7 +54,7 @@
       </div>
       -->
 
-      <div class="text-base text-gray-800 dark:text-gray-700">
+      <div class="text-xl text-gray-800 dark:text-gray-700">
         <a>
         {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
       </a></div>
