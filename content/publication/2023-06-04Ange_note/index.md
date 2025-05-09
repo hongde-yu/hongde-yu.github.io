@@ -7,7 +7,7 @@ authors:
 - Zhongquan Liao
 - Silvia Paasch
 - Shunqi Xu
-- Dr. Ruyan Zhao
+- Ruyan Zhao
 - Eike Brunner
 - Mischa Bonn
 - Hai I. Wang
