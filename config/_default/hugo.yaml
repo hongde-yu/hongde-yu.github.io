@@ -60,4 +60,5 @@ cascade:
   reading_time: false
   share: false
   profile: false
+  show_breadcrumb: false
 
