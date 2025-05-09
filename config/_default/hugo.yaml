@@ -56,7 +56,7 @@ sitemap:
   _merge: deep
 
 cascade:
-  show_date: false
+  show_date: true
   reading_time: false
   share: false
   profile: false
