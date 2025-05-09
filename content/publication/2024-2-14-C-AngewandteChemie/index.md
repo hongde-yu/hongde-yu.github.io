@@ -1,5 +1,5 @@
 ---
-title: "Increasing the Accessibility of Internal Catalytic Sites in Covalent Organic Frameworks by Introducing a Bicontinuous Mesostructure
+title: "Increasing the Accessibility of Internal Catalytic Sites in Covalent Organic Frameworks by Introducing a Bicontinuous Mesostructure"
 authors:
 - Dr. Yamei Liu
 - Qin Zhou,
@@ -20,7 +20,7 @@ date: "2024-02-14T00:00:00Z"
 doi: "10.1002/ange.202400985"
 
 publication_types: ["article-journal"]
-publication: "*Angewandte Chemie , 136*(15), e202400985"
+publication: "*Angewandte Chemie, 136*(15), e202400985"
 url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ange.202400985
 
 
