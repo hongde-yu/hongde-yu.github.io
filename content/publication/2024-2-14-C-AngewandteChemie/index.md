@@ -1,19 +1,19 @@
 ---
 title: "Increasing the Accessibility of Internal Catalytic Sites in Covalent Organic Frameworks by Introducing a Bicontinuous Mesostructure"
 authors:
-- Dr. Yamei Liu
-- Qin Zhou,
+- Yamei Liu
+- Qin Zhou
 - admin
 - Qiqi Yang
-- Dr. Mingchao Wang
-- Dr. Chuanhui Huang
+- Mingchao Wang
+- Chuanhui Huang
 - Luoxing Xiang
-- Dr. Chen Li
-- Prof. Thomas Heine
-- Prof. Guoqing Hu
-- Prof. Shengyao Wang
-- Prof. Xinliang Feng
-- Prof. Yiyong Mai
+- Chen Li
+- Thomas Heine
+- Guoqing Hu
+- Shengyao Wang
+- Xinliang Feng
+- Yiyong Mai
 
 weight: 994
 date: "2024-02-14T00:00:00Z"
