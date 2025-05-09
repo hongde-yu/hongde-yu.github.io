@@ -16,8 +16,8 @@ publishDate: "2023-08-23T00:00:00Z"
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of the American Chemical Society, 145*(35), 19303-19311"
-# publication_short: ""
+publication: "*Journal of the American Chemical Society, 145*(35), 19303-19311"
+publication_short: ""
 
 # Summary. An optional shortened abstract.
 summary: We present an effective approach to control the magnetic couplings in triangulene dimers. We investigated 24 triangulene dimers and achieved unprecedented strong J values up to -144 meV. Many of our predictions have been experimentally verified. We show the first example of ferromagnetic triangulene dimers that is beyond Lieb's theorem's predictive power.
