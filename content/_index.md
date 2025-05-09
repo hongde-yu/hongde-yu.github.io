@@ -41,7 +41,7 @@ sections:
 
   - block: collection
     content:
-      title: 'My Research 2'
+      title: '📚 My Research 2'
       filters:
         folders:
           - my_research
