@@ -44,6 +44,8 @@ sections:
       # subtitle: 'Meet our team and explore our projects'
       # text: |
       #   ![Team Photo](uploads/team_photo.jpg "Magnetic Carbon Subgroup Team")
+      sort_by: weight
+      sort_ascending: true
       filters:
         folders:
           - team_project
