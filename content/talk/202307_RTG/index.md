@@ -1,5 +1,5 @@
 ---
-title: RTG 2861 PCL Summer School 2023, Berlin, Germany  
+title: RTG 2861 PCL Summer School 2023, Berlin, Germany (Invited)
 #summary: summary
 date: 2023-07-10
 publishDate: "2025-05-07T00:00:00Z"
