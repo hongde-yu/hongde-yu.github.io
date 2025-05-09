@@ -35,8 +35,8 @@ header:
     show_search: false
     show_theme_chooser: true
     show_logo: true
-    #logo:
-    #  text: ""
+    logo:
+      text: "Hongde Yu"
     #  filename: "logo.svg"
 
 # Site footer
