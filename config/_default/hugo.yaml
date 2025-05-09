@@ -54,3 +54,10 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+cascade:
+  show_date: false
+  reading_time: false
+  share: false
+  profile: false
+
