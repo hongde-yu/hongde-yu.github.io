@@ -61,5 +61,4 @@ cascade:
   share: false
   profile: false
   show_breadcrumb: false
-  backlinks: false
 
