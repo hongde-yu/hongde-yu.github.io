@@ -1,5 +1,5 @@
 ---
-title: 15th edition of Graphene Conference series (Graphene2025) (Graphene2025), San Sebastian, Spain  
+title: 15th edition of Graphene Conference series (Graphene2025), San Sebastian, Spain  
 #summary: summary
 date: 2025-06-25
 publishDate: "2025-05-07T00:00:00Z"
