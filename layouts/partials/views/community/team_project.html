@@ -42,7 +42,7 @@
     <div class="">
       <div class="flex gap-3 mt-1">
         {{ range $index, $value := first 1 ($item.GetTerms "tags") }}
-        {{/*    <a href="{{.RelPermalink}}">    */}}
+        <a href="{{.RelPermalink}}">
         <span
           class="inline-block text-xs font-medium tracking-wider uppercase text-primary-700 dark:text-primary-300">{{ .Page.LinkTitle }}</span></a>
         {{ end }}
@@ -60,11 +60,13 @@
         {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
       </a></p>
       </div>
-      
+
+      <!-- show all
       <div class="text-base text-gray-800 dark:text-gray-700">
         {{/*    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>     */}} 
         {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
       </a></div>
+      -->
       
     </div>
   </div>
