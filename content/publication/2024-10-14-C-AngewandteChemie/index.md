@@ -15,7 +15,7 @@ doi: "10.1002/anie.202414090"
 
 publication_types: ["article-journal"]
 publication: "*Angewandte Chemie International Edition , 63*(50), e202414090"
-url_pdf: https://www.nature.com/articles/s41929-023-01102-3.pdf
+url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202414090
 
 
 image:
