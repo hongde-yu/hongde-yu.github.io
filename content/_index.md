@@ -48,7 +48,7 @@ sections:
         folders:
           - team_project
     design:
-      columns: '1'
+      columns: '2'
       view: community/team_project
   #- block: collection
   #  id: papers
