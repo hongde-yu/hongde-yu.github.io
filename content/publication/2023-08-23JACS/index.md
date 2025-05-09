@@ -55,15 +55,6 @@ image:
 #slides: example
 ---
 
-#### Publication
-
-"*Journal of the American Chemical Society, 145*(35), 19303-19311"
-
 #### Abstract
 
 Metal-free magnetism remains an enigmatic field, offering prospects for unconventional magnetic and electronic devices. In the pursuit of such magnetism, triangulenes, endowed with inherent spin polarization, are promising candidates to serve as monomers to construct extended structures. However, controlling and enhancing the magnetic interactions between the monomers persist as a significant challenge in molecular spintronics, as so far only weak antiferromagnetic coupling through the linkage has been realized, hindering their room temperature utilization. Herein, we investigate 24 triangulene dimers using first-principles calculations and demonstrate their tunable magnetic coupling (J), achieving unprecedented strong J values of up to −144 meV in a non-Kekulé dimer. We further establish a positive correlation between bandgap, electronic coupling, and antiferromagnetic interaction, thereby providing molecular-level insights into enhancing magnetic interactions. By twisting the molecular fragments, we demonstrate an effective and feasible approach to control both the sign and strength of J by tuning the balance between potential and kinetic exchanges. We discover that J can be substantially boosted at planar configurations up to −198 meV. We realize ferromagnetic coupling in nitrogen-doped triangulene dimers at both planar and largely twisted configurations, representing the first example of ferromagnetic triangulene dimers that cannot be predicted by the Ovchinnikov rule. This work thus provides a practical strategy for augmenting magnetic coupling and open up new avenues for metal-free ferromagnetism.
-
-#### Publication Type
-
-["article-journal"]
-
