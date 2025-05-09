@@ -4,10 +4,10 @@ authors:
 - Kevin Gerein
 - Diyan Unmu Dzujah
 - admin
-- Dr. Frank Hauke
-- Prof. Dr. Thomas Heine
-- Prof. Dr. Andreas Hirsch
-- Dr. Tao Wei
+- Frank Hauke
+- Thomas Heine
+- Andreas Hirsch
+- Tao Wei
 
 weight: 993
 date: "2024-10-14T00:00:00Z"
