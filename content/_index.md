@@ -38,6 +38,18 @@ sections:
         My research interest is in prediction and design of functional materials with computational chemistry and machine learning techniques, focusing on covalent organic frameworks (COFs) and metal-organic frameworks (MOFs), especially their electronic structures, magnetic, catalytic and charge transport properties.
     design:
       columns: '1'
+  - block: collection
+    content:
+      title: 'Magnetic Carbon Subgroup (MagCarb)'
+      # subtitle: 'Meet our team and explore our projects'
+      text: |
+        ![Team Photo](uploads/team_photo.jpg "Magnetic Carbon Subgroup Team")
+      filters:
+        folders:
+          - team_project
+    design:
+      columns: '1'
+      view: community/team_project
   #- block: collection
   #  id: papers
   #  content:
