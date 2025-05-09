@@ -8,7 +8,7 @@ date: "2023-08-23T00:00:00Z"
 doi: "10.1021/jacs.3c05178"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2023-08-23T00:00:00Z"
+publishDate: "2023-08-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
