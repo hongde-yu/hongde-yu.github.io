@@ -1,8 +1,9 @@
 ---
 title: "Magnetic Coupling Control in Triangulene Dimers"
-authors:
-- admin
-- Thomas Heine
+authors: [admin, "Thomas Heine"]
+author_notes: ["Equal contribution", "Equal contribution"]
+#- admin
+#- Thomas Heine
 weight: 3
 date: "2023-08-23T00:00:00Z"
 doi: "10.1021/jacs.3c05178"
@@ -53,6 +54,7 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
+
 ---
 
 ### Abstract
