@@ -19,9 +19,9 @@ sections:
         text: Download CV
         # url: uploads/CV_Hongde_Yu.pdf
     design:
-      css_class: dark
+      # css_class: dark
       background:
-        color: white
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
