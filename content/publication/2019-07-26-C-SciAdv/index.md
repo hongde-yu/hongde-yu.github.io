@@ -8,13 +8,21 @@ authors:
 - Bing Ni
 - Dong Wang
 - Xun Wang
-
-weight: 1000
+author_notes:
+- "#"
+- "#"
+- "#"
+- ""
+- ""
+- ""
+- ""
+- 
+weight: 500
 date: "2019-07-26T00:00:00Z"
 doi: "10.1126/sciadv.aax1081"
 
 publication_types: ["article-journal"]
-publication: "*Science Advances, 5*(7), p.eaax1081"
+publication: "*Science Advances*, 2019, *5*(7), eaax1081"
 url_pdf: https://www.science.org/doi/pdf/10.1126/sciadv.aax1081
 
 
