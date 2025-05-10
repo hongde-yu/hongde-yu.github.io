@@ -18,7 +18,7 @@ date: "2017-08-29T00:00:00Z"
 doi: "10.1038/s41467-017-00329-6"
 
 publication_types: ["article-journal"]
-publication: "*Nature Communications*, 2017, *8*(1), 377"
+publication: "*Nature Communications*, 2017, *8*(1), 377."
 url_pdf: https://www.nature.com/articles/s41467-017-00329-6.pdf
 
 
