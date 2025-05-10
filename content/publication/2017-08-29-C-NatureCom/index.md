@@ -2,7 +2,7 @@
 title: "Probing the crystallographic orientation of two-dimensional atomic crystals with supramolecular self-assembly"
 authors:
 - Jinghui Wang #
-- **Hongde Yu** #
+- **Hongde Yu** \#
 - Xu Zhou
 - Xiaozhi Liu
 - Renjie Zhang
