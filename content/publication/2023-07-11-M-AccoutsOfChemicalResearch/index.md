@@ -11,7 +11,7 @@ date: "2023-07-11T00:00:00Z"
 doi: "10.1021/acs.accounts.3c00091"
 
 publication_types: ["review"]
-publication: "*Accounts of Chemical Research , 56*(16): 2127-2138."
+publication: "*Accounts of Chemical Research*, 2023, *56*(16): 2127-2138."
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.accounts.3c00091?ref=article_openPDF
 
 
