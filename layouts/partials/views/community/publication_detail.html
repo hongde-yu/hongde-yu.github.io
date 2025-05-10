@@ -76,7 +76,7 @@
           {{ partial "page_metadata_authors_custom" $item }}.
         </span>
         {{ if $item.Params.publication_short }}
-          {{- $item.Params.publication_short | markdownify -}},
+          {{- $item.Params.publication_short | markdownify -}}
         {{ else if $item.Params.publication }}
           {{- $item.Params.publication | markdownify -}}
         {{ end }}
