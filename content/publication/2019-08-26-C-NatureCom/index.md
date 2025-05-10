@@ -11,14 +11,22 @@ authors:
 - Haoyi Li
 - Lin Gu
 - Dong Wang
-- Xun Wang 
+- Xun Wang
+author_notes:
+- "#"
+- "#"
+- ""
+- ""
+- ""
+- ""
+- ""
 
-weight: 1000
+weight: 500
 date: "2019-08-26T00:00:00Z"
 doi: "10.1038/s41467-019-11817-2"
 
 publication_types: ["review"]
-publication: "*Nature Communications, 10*(1), p.3844"
+publication: "*Nature Communications*, 2019, *10*(1), 3844"
 url_pdf: https://www.nature.com/articles/s41467-019-11817-2.pdf
 
 image:
