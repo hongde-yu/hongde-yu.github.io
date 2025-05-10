@@ -8,7 +8,7 @@ authors:
 - Zhiqiang Wang
 - Dong Wang
 - Xi Zhang
-author_notes：
+author_notes:
 - "#"
 - "#"
 - ""
