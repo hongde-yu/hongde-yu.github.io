@@ -13,7 +13,7 @@ doi: "10.1002/adfm.202103561"
 
 publication_types: ["article-journal"]
 publication: "*Advanced Functional Materials, *31(30), 2103561"
-# url_pdf: 
+url_pdf: https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202103561?saml_referrer
 
 
 image:
