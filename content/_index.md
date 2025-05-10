@@ -49,7 +49,7 @@ sections:
       view: community/my_research
   - block: collection
     content:
-      title: 'Magnetic Carbon'
+      title: 'Magnetic Carbon (MagCar)'
       # subtitle: 'Meet our team and explore our projects'
       # text: |
       #   ![Team Photo](uploads/team_photo.jpg "Magnetic Carbon Subgroup Team")
