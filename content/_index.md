@@ -86,7 +86,9 @@ sections:
         #exclude_featured: True
     design:
       view: citation
-
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: talks
     content:
