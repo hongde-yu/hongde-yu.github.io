@@ -18,7 +18,7 @@ date: "2019-11-27T00:00:00Z"
 doi: "10.1021/acs.jpcc.9b08461"
 
 publication_types: ["article-journal"]
-publication: "*The Journal of Physical Chemistry C*,2019, *123*(51), 30996-31002"
+publication: "*The Journal of Physical Chemistry C*, 2019, *123*(51), 30996-31002."
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.9b08461?ref=article_openPDF
 
 
