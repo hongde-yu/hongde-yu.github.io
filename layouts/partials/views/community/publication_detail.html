@@ -78,7 +78,7 @@
         {{ if $item.Params.publication_short }}
           {{- $item.Params.publication_short | markdownify -}},
         {{ else if $item.Params.publication }}
-          {{- $item.Params.publication | markdownify -}},
+          {{- $item.Params.publication | markdownify -}}
         {{ end }}
         </div>
       </div>
