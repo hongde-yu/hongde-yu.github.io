@@ -66,7 +66,7 @@ sections:
           - publication
         #exclude_featured: True
     design:
-      view: citation
+      view: community/citation_custom
   - block: collection
     id: talks
     content:
