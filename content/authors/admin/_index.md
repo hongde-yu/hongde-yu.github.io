@@ -123,4 +123,4 @@ awards:
 
 ## About Me
 
-I'm a Humboldt Postdoctoral Fellow and subgroup leader at Technische Universität Dresden, specializing in the computational design of organic 2D crystals for applications in magnetism, transport, and photocatalysis.
+Hongde Yu is a Humboldt Postdoctoral Fellow and subgroup leader at Technische Universität Dresden, specializing in the computational design of organic 2D crystals for applications in magnetism, transport, and photocatalysis.
