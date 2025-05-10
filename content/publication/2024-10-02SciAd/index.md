@@ -16,7 +16,7 @@ publishDate: "2024-10-02T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science Advances, 10*(40), eadq7954"
+publication: "*Science Advances*, 2024, *10*(40), eadq7954."
 publication_short: ""
 
 # Summary. An optional shortened abstract.
