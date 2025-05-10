@@ -78,7 +78,7 @@ sections:
       count: 6
       sort_by: weight
       sort_ascending: true
-      title: Recent Publications
+      title: Recent Selected Publications
       text: ""
       filters:
         folders:
