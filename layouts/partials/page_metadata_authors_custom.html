@@ -42,14 +42,11 @@
         {{ .LinkTitle }}
       {{- end -}}
     </span>
-    {{- if and (isset $.Params "author_notes") (lt $index (len $.Params.author_notes))) -}}
-      {{- with $note := (index $.Params.author_notes $index) -}}
-        {{- if $note -}}
-          <sup>{{ $note }}</sup>
-        {{- end -}}
+    {{- if isset $.Params "author_notes" -}}
+      {{- $note := index $.Params.author_notes $index -}}
+      {{- if and $note (lt $index (len $.Params.author_notes)) -}}
+        <sup>{{ $note }}</sup>
       {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
-
-
