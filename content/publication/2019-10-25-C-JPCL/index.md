@@ -14,7 +14,7 @@ doi: "10.1021/acs.jpclett.9b02568"
 
 publication_types: ["review"]
 publication: "*The Journal of Physical Chemistry Letters, *10(21), 6948-6954"
-# url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.9b02568?ref=article_openPDF
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.9b02568?ref=article_openPDF
 
 
 image:
