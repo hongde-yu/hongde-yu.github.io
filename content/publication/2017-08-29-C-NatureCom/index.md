@@ -1,7 +1,8 @@
 ---
 title: "Probing the crystallographic orientation of two-dimensional atomic crystals with supramolecular self-assembly"
 authors:
-- "Jinghui Wang<sup>#</sup>"
+- Jinghui Wang
+  symbol: "#"
 - admin 
 - Xu Zhou
 - Xiaozhi Liu
