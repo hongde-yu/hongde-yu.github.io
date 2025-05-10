@@ -45,8 +45,6 @@
       {{- $note := index $.Params.author_notes $index -}}
       {{- if and $note (lt $index (len $.Params.author_notes)) -}}
         <sup>{{ $note | htmlEscape }}</sup>
-      {{- else -}}
-        <!-- Debug: No valid note for index {{ $index }} -->
       {{- end -}}
     {{- end -}}
   {{ end }}
