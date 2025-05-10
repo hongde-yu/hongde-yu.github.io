@@ -36,9 +36,7 @@ header:
     show_theme_chooser: true
     show_logo: true
     logo:
-      # Logo text
       text: "Hongde Yu"
-      # Logo filename in `assets/media/` folder
       filename: "logo.svg"
 
 # Site footer
