@@ -13,7 +13,7 @@ date: "2019-10-25T00:00:00Z"
 doi: "10.1021/acs.jpclett.9b02568"
 
 publication_types: ["review"]
-publication: "*The Journal of Physical Chemistry Letters*, 2019, *10*(21), 6948-6954"
+publication: "*The Journal of Physical Chemistry Letters*, 2019, *10*(21), 6948-6954."
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.9b02568?ref=article_openPDF
 
 
