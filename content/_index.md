@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        # url: uploads/CV_Hongde_Yu.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/CV_Hongde_Yu.pdf
     design:
       # css_class: dark
       background:
