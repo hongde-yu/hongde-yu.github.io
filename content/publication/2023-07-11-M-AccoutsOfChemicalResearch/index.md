@@ -12,7 +12,7 @@ doi: "10.1021/acs.accounts.3c00091"
 
 publication_types: ["review"]
 publication: "*Accounts of Chemical Research , 56*(16): 2127-2138"
-# url_pdf: 
+url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.accounts.3c00091?ref=article_openPDF
 
 
 image:
