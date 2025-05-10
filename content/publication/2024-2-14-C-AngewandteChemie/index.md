@@ -15,12 +15,12 @@ authors:
 - Xinliang Feng
 - Yiyong Mai
 
-weight: 994
+weight: 1000
 date: "2024-02-14T00:00:00Z"
 doi: "10.1002/ange.202400985"
 
 publication_types: ["article-journal"]
-publication: "*Angewandte Chemie, 136*(15), e202400985"
+publication: "*Angewandte Chemie International Edition*, 2024, *136*(15), e202400985."
 url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ange.202400985
 
 
