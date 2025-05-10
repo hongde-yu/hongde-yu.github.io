@@ -37,7 +37,7 @@ header:
     show_logo: true
     logo:
       # Logo text
-      text: "Hongde Yu"
+      # text: "Hongde Yu"
       # Logo filename in `assets/media/` folder
       #logo: "logo.svg"
   title: "Hongde Yu"
