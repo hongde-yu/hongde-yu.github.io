@@ -66,4 +66,4 @@ cascade:
   show_breadcrumb: false
 
 [params]
-  logo = "/logo.svg"
+  logo = "/images/logo.svg"
