@@ -64,6 +64,3 @@ cascade:
   share: false
   profile: false
   show_breadcrumb: false
-
-params:
-  logo: "/images/logo.svg"
