@@ -1,8 +1,8 @@
 ---
 title: "Probing the crystallographic orientation of two-dimensional atomic crystals with supramolecular self-assembly"
 authors:
-- "John Doe<sup>#</sup>"
-- admin 
+- Jinghui Wang#
+- admin# 
 - Xu Zhou
 - Xiaozhi Liu
 - Renjie Zhang
