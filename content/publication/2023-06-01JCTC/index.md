@@ -17,7 +17,7 @@ publishDate: "2023-06-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Chemical Theory and Computation, 19*(12), 3486–3497"
+publication: "*Journal of Chemical Theory and Computation*, 2023, *19*(12), 3486–3497."
 publication_short: ""
 
 # Summary. An optional shortened abstract.
