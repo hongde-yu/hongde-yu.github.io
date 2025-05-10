@@ -17,7 +17,7 @@ publishDate: "2023-06-22T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*JACS Au, 2*(8), 1848–1856"
+publication: "*JACS Au*, 2022, *2*(8), 1848–1856."
 publication_short: ""
 
 # Summary. An optional shortened abstract.
