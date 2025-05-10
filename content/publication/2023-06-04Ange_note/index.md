@@ -37,7 +37,7 @@ doi: "10.1002/anie.202305978"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Angewandte Chemie International Edition*, 2023, *62*(35), e202305978"
+publication: "*Angewandte Chemie International Edition*, 2023, *62*(35), e202305978."
 publication_short: ""
 
 # Summary. An optional shortened abstract.
