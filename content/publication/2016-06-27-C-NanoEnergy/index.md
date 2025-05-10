@@ -1,7 +1,7 @@
 ---
 title: "Controlled orientation of perovskite films through mixed cations toward high performance perovskite solar cells"
 authors:
-- "**Guangda Niu**"
+- Guangda Niu
 - admin
 - Jiangwei Li
 - Dong Wang
