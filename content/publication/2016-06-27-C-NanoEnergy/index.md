@@ -12,7 +12,7 @@ date: "2016-06-27T00:00:00Z"
 doi: "10.1016/j.nanoen.2016.06.053"
 
 publication_types: ["article-journal"]
-publication: "*Nano Energy, *27, pp.87-94"
+publication: "*Nano Energy, 27*, pp.87-94"
 # url_pdf: 
 
 image:
