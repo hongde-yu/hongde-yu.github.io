@@ -2,12 +2,20 @@
 title: "Self-assembling 1D core/shell microrods by the introduction of additives: a one-pot and shell-tunable method"
 authors:
 - Jun Xu
-- admin {#}
+- admin
 - Liulin Yang
 - Guanglu Wu
 - Zhiqiang Wang
 - Dong Wang
 - Xi Zhang
+author_notes：
+- "#"
+- "#"
+- ""
+- ""
+- ""
+- ""
+- ""
 
 weight: 1000
 date: "2025-06-03T00:00:00Z"
