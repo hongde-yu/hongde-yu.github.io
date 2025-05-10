@@ -65,6 +65,5 @@ cascade:
   profile: false
   show_breadcrumb: false
 
-params:
-  header:
-    logo: "logo.svg"
+[params]
+  logo = "/logo.svg"
