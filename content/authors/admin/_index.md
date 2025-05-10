@@ -100,7 +100,7 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards and grants:
+awards:
   - title: Humboldt Research Fellowship
     date: '2022-04-01'
     summary: |
