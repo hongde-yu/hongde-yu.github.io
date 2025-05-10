@@ -9,12 +9,12 @@ authors:
 - Andreas Hirsch
 - Tao Wei
 
-weight: 993
+weight: 1000
 date: "2024-10-14T00:00:00Z"
 doi: "10.1002/anie.202414090"
 
 publication_types: ["article-journal"]
-publication: "*Angewandte Chemie International Edition , 63*(50), e202414090"
+publication: "*Angewandte Chemie International Edition*, 2024, *63*(50), e202414090."
 url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202414090
 
 
