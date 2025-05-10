@@ -10,12 +10,12 @@ authors:
 - Thomas Heine
 - Donglin Jiang
 
-weight: 995
+weight: 1000
 date: "2024-02-13T00:00:00Z"
 doi: "10.1038/s41929-023-01102-3"
 
 publication_types: ["article-journal"]
-publication: "*Nature Catalysis , 7*, 195-206"
+publication: "*Nature Catalysis*, 2024, *7*, 195-206."
 url_pdf: https://www.nature.com/articles/s41929-023-01102-3.pdf
 
 
