@@ -18,10 +18,10 @@
   {{ with $resource }}
   {{ $image := "" }}
   
-  {{ $image = .Resize (printf "730x270 %s" $anchor) }}
+  {{ $image = .Resize (printf "438x162 %s" $anchor) }}
 
   {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp q90" }}{{ end }}
-  <div class="overflow-hidden rounded-md transition-all hover:scale-105 w-full" style="margin: 0 auto; display: flex; align-items: center; justify-content: center;">
+  <div class="overflow-hidden rounded-md transition-all hover:scale-105 w-full max-w-[438px]" style="margin: 0 auto; display: flex; align-items: center; justify-content: center;">
     {{/*    <a class="relative block">     */}}
     <a class="relative block" href="{{ $link }}" {{ $target | safeHTMLAttr }} >
       <img alt="{{ $item.Title | plainify }}"
