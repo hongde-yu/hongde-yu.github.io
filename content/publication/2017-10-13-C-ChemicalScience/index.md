@@ -15,7 +15,7 @@ date: "2017-10-13T00:00:00Z"
 doi: "10.1039/c7sc04125j"
 
 publication_types: ["article-journal"]
-publication: "*Chemical science, *8(12), pp.8357-8361"
+publication: "*Chemical science, 8*(12), pp.8357-8361"
 url_pdf: https://pubs.rsc.org/en/content/articlepdf/2017/sc/c7sc04125j
 
 
