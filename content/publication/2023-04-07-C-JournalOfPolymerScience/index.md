@@ -16,12 +16,12 @@ authors:
 - Yiyong Mai
 - Xinliang Feng
 
-weight: 996
+weight: 1000
 date: "2023-04-07T00:00:00Z"
 doi: "10.1002/pol.20230090"
 
 publication_types: ["article-journal"]
-publication: "*Journal of Polymer Science , 61*(16), 1843-1848"
+publication: "*Journal of Polymer Science*, 2023, *61*(16), 1843-1848."
 url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/pol.20230090
 
 
