@@ -50,7 +50,8 @@ education:
     date_end: 2021-04-01
     summary: |
       Advisor: Prof. Dong Wang
-  - area: BSc Chemistry (major), Computer Science (minor)
+  - area: BSc Chemistry (major),
+    Computer Science (minor)
     institution: Tsinghua University, P. R. China
     date_start: 2011-08-01
     date_end: 2015-07-01
@@ -123,4 +124,4 @@ awards:
 
 ## About Me
 
-Hongde Yu is a Humboldt Postdoctoral Fellow at Technische Universität Dresden. His research interests include 2D polymers, MOFs, COFs, Magnetism and Photocatalysis.
+I'm a Humboldt Postdoctoral Fellow and subgroup leader at Technische Universität Dresden. My research interests are computational design of organic 2D crystals for magnetism, trasport and photocatalysis.
