@@ -19,7 +19,7 @@ date: "2018-05-21T00:00:00Z"
 doi: "10.1021/acs.nanolett.8b00452"
 
 publication_types: ["article-journal"]
-publication: "*Nano letters, 18*(6), pp.3435-3440"
+publication: "*Nano letters, 18*(6), pp.3435-3440."
 url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.8b00452?ref=article_openPDF
 
 
