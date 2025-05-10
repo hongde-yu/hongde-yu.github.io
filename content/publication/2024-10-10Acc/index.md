@@ -17,7 +17,7 @@ publishDate: "2024-12-10T00:00:00Z"
 publication_types: ["review"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Accounts of Chemical Research, 58*(1), 61-72"
+publication: "*Accounts of Chemical Research*, 2025, *58*(1), 61-72."
 publication_short: ""
 
 
