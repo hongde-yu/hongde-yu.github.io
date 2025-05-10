@@ -101,23 +101,20 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: CRC1415 Start-up Funding 2025
+    date: '2025-03-10'
+    summary: |
   - title: Humboldt Research Fellowship
     date: '2022-04-01'
     summary: |
   - title: Tang Aoqing Chemistry Scholarship
     date: '2020-10-15'
     summary: |
-  - title: Tsinghua University Scholarship for Graduate Students, first-class
-    date: '2019-10-15'
-    summary: |
   - title: Tsinghua University Future Scholar Scholarship
     date: '2018-10-15'
     summary: |
   - title: Poster Award on the 31st National Meeting of Chinese Chemical Society 
     date: '2020-05-15'
-    summary: |
-  - title: Tsinghua University Scholarship for Academic Excellence
-    date: '2014-10-15'
     summary: |
 ---
 
