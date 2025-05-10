@@ -16,7 +16,7 @@ publishDate: "2023-05-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of the American Chemical Society, 142*(25), 11013–11021"
+publication: "*Journal of the American Chemical Society*, 2020, *142*(25), 11013–11021."
 publication_short: ""
 
 # Summary. An optional shortened abstract.
