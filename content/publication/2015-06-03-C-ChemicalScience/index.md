@@ -22,7 +22,7 @@ date: "2015-06-03T00:00:00Z"
 doi: "10.1039/c5sc01631b"
 
 publication_types: ["article-journal"]
-publication: "*Chemical Science*, 2015, *6*(8), 4907-4911"
+publication: "*Chemical Science*, 2015, *6*(8), 4907-4911."
 url_pdf: https://pubs.rsc.org/en/content/articlepdf/2015/sc/c5sc01631b
 
 
