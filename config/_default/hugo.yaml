@@ -67,4 +67,4 @@ cascade:
 
 params:
   header:
-    logo = "logo.svg"
+    logo: "logo.svg"
