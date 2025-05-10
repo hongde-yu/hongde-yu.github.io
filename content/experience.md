@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: resume-awards
     content:
-      title: Awards
+      title: Awards and Grants
       username: admin
 
 ---
