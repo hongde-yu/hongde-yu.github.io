@@ -90,7 +90,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 'Contribution  Talks'
+      title: 'Contributed  Talks'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
