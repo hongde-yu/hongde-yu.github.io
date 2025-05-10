@@ -37,7 +37,7 @@ header:
     show_logo: true
     logo:
       text: "Hongde Yu"
-      filename: "/uploads/logo_detail.svg"
+      filename: "/static/uploads/logo_detail.svg"
 
 # Site footer
 footer:
