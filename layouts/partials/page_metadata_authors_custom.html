@@ -16,8 +16,15 @@
       {{- end -}}
     </span>
     {{- if isset $.Params "author_notes" -}}
+      <!--
       {{- with (index $.Params.author_notes $index) -}}
         <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
+      -->
+
+      {{- $note := index $.Params.author_notes $index -}}
+      {{- if and $note (lt $index (len $.Params.author_notes)) -}}
+        <sup>{{ $note | htmlEscape }}</sup>
+
       {{- end -}}
     {{- end -}}
   {{- end -}}
