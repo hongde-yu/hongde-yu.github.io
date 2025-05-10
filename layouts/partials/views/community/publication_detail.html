@@ -54,7 +54,7 @@
           </span></a>
       </h2>
 
-      <!--          </div>-->
+      <!--          </div>
       <div class="grow">
         <div class="mt-2 text-base text-gray-800 dark:text-gray-300">
         <span class="article-metadata li-cite-author">
@@ -66,6 +66,20 @@
           {{- $item.Params.publication | markdownify -}},
         {{ end }}
         {{- $item.Date.Format "2006" -}}.
+        </div>
+      </div>
+      -->
+
+      <div class="grow">
+        <div class="mt-2 text-base text-gray-800 dark:text-gray-300">
+        <span class="article-metadata li-cite-author">
+          {{ partial "page_metadata_authors" $item }}.
+        </span>
+        {{ if $item.Params.publication_short }}
+          {{- $item.Params.publication_short | markdownify -}},
+        {{ else if $item.Params.publication }}
+          {{- $item.Params.publication | markdownify -}},
+        {{ end }}
         </div>
       </div>
       
