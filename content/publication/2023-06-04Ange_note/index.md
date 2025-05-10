@@ -1,9 +1,9 @@
 ---
 title: "A Thiophene Backbone Enables Two-Dimensional Poly(arylene vinylene)s with High Charge Carrier Mobility"
 authors:
-- Yamei Liu #
-- Heng Zhang #
-- admin #
+- Yamei Liu
+- Heng Zhang
+- admin
 - Zhongquan Liao
 - Silvia Paasch
 - Shunqi Xu
@@ -15,7 +15,15 @@ authors:
 - Mingchao Wang
 - Yiyong Mai
 - Xinliang Feng
-weight: 997
+author_notes:
+- "#"
+- "#"
+- "#"
+- ""
+- ""
+- ""
+- ""
+weight: 500
 date: "2023-06-04T00:00:00Z"
 # exclude_from_home: true
 doi: "10.1002/anie.202305978"
@@ -29,7 +37,7 @@ doi: "10.1002/anie.202305978"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Angewandte Chemie International Edition, 62*(35), e202305978"
+publication: "*Angewandte Chemie International Edition*, 2023, *62*(35), e202305978"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
