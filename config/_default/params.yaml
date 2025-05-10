@@ -39,7 +39,8 @@ header:
       # Logo text
       text: "Hongde Yu"
       # Logo filename in `assets/media/` folder
-      logo: "logo.svg"
+      #logo: "logo.svg"
+  title: "Hongde Yu"
 
 # Site footer
 footer:
