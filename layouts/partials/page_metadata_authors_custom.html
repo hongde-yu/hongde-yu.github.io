@@ -30,14 +30,13 @@
 {{/* Display author list. */}}
 {{- $taxonomy := "authors" }}
 {{ if .Param $taxonomy }}
+  <!-- Debug: Start of author list -->
   {{ range $index, $value := (.GetTerms $taxonomy) }}
-    {{- /* Highlight the author's name? */ -}}
-    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
-
     {{- if gt $index 0 }}, {{ end -}}
-    <span {{ if $highlight_name }}class="font-bold"{{end}}>
+    <!-- Debug: Author {{ $index }} -->
+    <span {{ if .Page.Params.highlight_name }}class="font-bold"{{end}}>
       {{- if .RelPermalink -}}
-        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+        <a href="{{.RelPermalink}}">{{ .LinkTitle }}</a>
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}}
@@ -45,8 +44,11 @@
     {{- if isset $.Params "author_notes" -}}
       {{- $note := index $.Params.author_notes $index -}}
       {{- if and $note (lt $index (len $.Params.author_notes)) -}}
-        <sup>{{ $note }}</sup>
+        <sup>{{ $note | htmlEscape }}</sup>
+      {{- else -}}
+        <!-- Debug: No valid note for index {{ $index }} -->
       {{- end -}}
     {{- end -}}
-  {{- end -}}
-{{- end -}}
+  {{ end }}
+  <!-- Debug: End of author list -->
+{{ end }}
