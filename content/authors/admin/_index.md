@@ -110,11 +110,11 @@ awards:
   - title: Tang Aoqing Chemistry Scholarship
     date: '2020-10-15'
     summary: |
-  - title: Tsinghua University Future Scholar Scholarship
-    date: '2018-10-15'
-    summary: |
   - title: Poster Award on the 31st National Meeting of Chinese Chemical Society 
     date: '2020-05-15'
+    summary: |
+  - title: Tsinghua University Future Scholar Scholarship
+    date: '2018-10-15'
     summary: |
 ---
 
