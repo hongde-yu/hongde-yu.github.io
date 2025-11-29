@@ -14,7 +14,4 @@ image:
 #  - admin
 #  - Ted
 
-tags:
-  - Upcoming
 
----
