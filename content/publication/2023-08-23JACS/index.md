@@ -26,7 +26,7 @@ summary: We present an effective approach to control the magnetic couplings in t
 
 tags:
 #- Source Themes
-featured: false
+featured: force
 
 # links:
 # - name: ""
