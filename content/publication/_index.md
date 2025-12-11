@@ -11,7 +11,7 @@ sections:
     content:
       count: 1000
       sort_by: date
-      sort_ascending: true
+      sort_ascending: false
       title: "Publications"
       text: ""
       filters:
