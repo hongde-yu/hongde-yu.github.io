@@ -1,9 +1,9 @@
 ---
-title: "Magnetic Coupling Control in Triangulene Dimers"
+title: "14. Magnetic Coupling Control in Triangulene Dimers"
 authors:
 - admin
 - Thomas Heine
-weight: 3
+weight: 1000
 date: "2023-08-23T00:00:00Z"
 doi: "10.1021/jacs.3c05178"
 
