@@ -1,15 +1,15 @@
 ---
-title: "Suppressing the Excitonic Effect in Covalent Organic Frameworks for Metal-Free Hydrogen Generation"
+title: "12. Suppressing the Excitonic Effect in Covalent Organic Frameworks for Metal-Free Hydrogen Generation"
 authors:
 - admin
 - Dong Wang
-weight: 5
+weight: 1000
 order: 3
 date: "2022-06-22T00:00:00Z"
 doi: "10.1021/jacsau.2c00169"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-22T00:00:00Z"
+publishDate: "2022-06-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
