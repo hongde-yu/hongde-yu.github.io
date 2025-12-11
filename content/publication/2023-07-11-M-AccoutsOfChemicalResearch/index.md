@@ -1,5 +1,5 @@
 ---
-title: "Chemical Doping of Organic and Coordination Polymers for Thermoelectric and Spintronic Applications: A Theoretical Understanding"
+title: "16. Chemical Doping of Organic and Coordination Polymers for Thermoelectric and Spintronic Applications: A Theoretical Understanding"
 authors:
 - Dong Wang
 - admin
