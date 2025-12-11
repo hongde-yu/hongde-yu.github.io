@@ -1,5 +1,5 @@
 ---
-title: "Visible-light-switched electron transfer over single porphyrin-metal atom center for highly selective electroreduction of carbon dioxide"
+title: "7. Visible-light-switched electron transfer over single porphyrin-metal atom center for highly selective electroreduction of carbon dioxide"
 authors:
 - Deren Yang
 - admin
@@ -21,11 +21,11 @@ author_notes:
 - ""
 - ""
 
-weight: 500
+weight: 1000
 date: "2019-08-26T00:00:00Z"
 doi: "10.1038/s41467-019-11817-2"
 
-publication_types: ["review"]
+publication_types: ["article"]
 publication: "*Nature Communications*, 2019, *10*(1), 3844."
 url_pdf: https://www.nature.com/articles/s41467-019-11817-2.pdf
 
