@@ -1,10 +1,10 @@
 ---
-title: "21. Physics and Chemistry of Two-Dimensional Triangulene-Based Lattices"
+title: "22. Physics and Chemistry of Two-Dimensional Triangulene-Based Lattices"
 authors:
 - admin
 - Yu Jing
 - Thomas Heine
-weight: 1000
+weight: 100
 date: "2024-12-10T00:00:00Z"
 doi: "10.1021/acs.accounts.4c00557"
 
