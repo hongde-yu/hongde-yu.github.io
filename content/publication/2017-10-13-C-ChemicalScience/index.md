@@ -1,5 +1,5 @@
 ---
-title: "3. Supramolecular catalyst functions in catalytic amount: cucurbit[8]uril accelerates the photodimerization of Brooker’s merocyanine"
+title: "4. Supramolecular catalyst functions in catalytic amount: cucurbit[8]uril accelerates the photodimerization of Brooker’s merocyanine"
 authors:
 - Yuetong Kang
 - Xiaoyan Tang
