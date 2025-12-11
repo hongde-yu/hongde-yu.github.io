@@ -1,5 +1,5 @@
 ---
-title: "Hydrogen Bonding-Induced Morphology Dependence of Long-Lived Organic Room-Temperature Phosphorescence: A Computational Study"
+title: "8. Hydrogen Bonding-Induced Morphology Dependence of Long-Lived Organic Room-Temperature Phosphorescence: A Computational Study"
 authors:
 - Huili Ma
 - admin
