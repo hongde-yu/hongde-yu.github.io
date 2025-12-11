@@ -65,7 +65,7 @@ sections:
         folders:
           - publication
         #featured_only: true
-        exclude_featured: true
+        #exclude_featured: true
     design:
       view: community/citation_custom
   - block: collection
