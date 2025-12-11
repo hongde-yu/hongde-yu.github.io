@@ -3,7 +3,7 @@ title: "10. Metal-Free Magnetism in Chemically Doped Covalent Organic Frameworks
 authors: [admin, "Dong Wang"]
 #- admin
 #- Dong Wang
-weight: 6
+weight: 1000
 date: "2020-05-18T00:00:00Z"
 doi: "10.1021/jacs.0c02254"
 
