@@ -1,5 +1,5 @@
 ---
-title: "Single molecule–mediated assembly of polyoxometalate single-cluster rings and their three-dimensional superstructures"
+title: "6. Single molecule–mediated assembly of polyoxometalate single-cluster rings and their three-dimensional superstructures"
 authors:
 - Qingda Liu
 - Peilei He
