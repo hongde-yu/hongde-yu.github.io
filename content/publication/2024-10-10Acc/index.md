@@ -1,5 +1,5 @@
 ---
-title: "Physics and Chemistry of Two-Dimensional Triangulene-Based Lattices"
+title: "21. Physics and Chemistry of Two-Dimensional Triangulene-Based Lattices"
 authors:
 - admin
 - Yu Jing
