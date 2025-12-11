@@ -1,5 +1,5 @@
 ---
-title: "4. Layer-Dependent Chemically Induced Phase Transition of Two-Dimensional MoS2"
+title: "5. Layer-Dependent Chemically Induced Phase Transition of Two-Dimensional MoS2"
 authors:
 - Lifei Sun
 - Xingxu Yan
