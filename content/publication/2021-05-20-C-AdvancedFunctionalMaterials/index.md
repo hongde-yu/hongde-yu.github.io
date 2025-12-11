@@ -1,5 +1,5 @@
 ---
-title: "Temperature-Responsive Self-Assembly of Single Polyoxometalates Clusters Driven by Hydrogen Bonds"
+title: "11. Temperature-Responsive Self-Assembly of Single Polyoxometalates Clusters Driven by Hydrogen Bonds"
 authors:
 - Qingda Liu
 - admin
@@ -15,7 +15,7 @@ author_notes:
 - ""
 - ""
 
-weight: 500
+weight: 1000
 date: "2021-05-20T00:00:00Z"
 doi: "10.1002/adfm.202103561"
 
