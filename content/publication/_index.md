@@ -12,7 +12,7 @@ sections:
       count: 1000
       sort_by: weight
       sort_ascending: true
-      title: "Selected publications"
+      title: "Publications"
       text: ""
       filters:
         folders:
