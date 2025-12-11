@@ -1,5 +1,5 @@
 ---
-title: "Controlled orientation of perovskite films through mixed cations toward high performance perovskite solar cells"
+title: "2. Controlled orientation of perovskite films through mixed cations toward high performance perovskite solar cells"
 authors:
 - Guangda Niu
 - admin
