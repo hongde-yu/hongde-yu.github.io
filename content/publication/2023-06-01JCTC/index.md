@@ -1,10 +1,10 @@
 ---
-title: "Predicting Magnetic Coupling and Spin-Polarization Energy in Triangulene Analogues"
+title: "14. Predicting Magnetic Coupling and Spin-Polarization Energy in Triangulene Analogues"
 authors:
 - admin
 - Jianwei Sun
 - Thomas Heine
-weight: 4
+weight: 1000
 date: "2023-06-01T00:00:00Z"
 doi: "10.1021/acs.jctc.3c00175"
 
