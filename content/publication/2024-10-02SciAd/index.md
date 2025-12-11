@@ -29,9 +29,9 @@ summary: We predicted, for the first time, the emergence of Stoner-ferromagnetic
 #- Metal-free Magnetism
 #- First-author
 
-#tags:
+tags:
 #- Source Themes
-#featured: false
+featured: true
 
 # links:
 # - name: ""
