@@ -3,7 +3,7 @@ title: "12. Suppressing the Excitonic Effect in Covalent Organic Frameworks for 
 authors:
 - admin
 - Dong Wang
-weight: 1000
+weight: 105
 order: 3
 date: "2022-06-22T00:00:00Z"
 doi: "10.1021/jacsau.2c00169"
