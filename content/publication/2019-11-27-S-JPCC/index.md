@@ -1,5 +1,5 @@
 ---
-title: "cis-C═C Bond and Amide Regulated Oriented Supramolecular Assembly on Two-Dimensional Atomic Crystals"
+title: "9. cis-C═C Bond and Amide Regulated Oriented Supramolecular Assembly on Two-Dimensional Atomic Crystals"
 authors:
 - admin
 - Jinghui Wang
