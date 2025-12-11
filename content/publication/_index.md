@@ -10,7 +10,7 @@ sections:
   - block: collection
     content:
       count: 1000
-      sort_by: weight
+      sort_by: date
       sort_ascending: true
       title: "Publications"
       text: ""
