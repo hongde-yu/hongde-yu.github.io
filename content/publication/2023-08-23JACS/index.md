@@ -1,5 +1,5 @@
 ---
-title: "14. Magnetic Coupling Control in Triangulene Dimers"
+title: "15. Magnetic Coupling Control in Triangulene Dimers"
 authors:
 - admin
 - Thomas Heine
