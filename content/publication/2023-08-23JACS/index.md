@@ -7,6 +7,7 @@ weight: 1000
 order: 1
 date: "2023-08-23T00:00:00Z"
 doi: "10.1021/jacs.3c05178"
+featured: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-23T00:00:00Z"
