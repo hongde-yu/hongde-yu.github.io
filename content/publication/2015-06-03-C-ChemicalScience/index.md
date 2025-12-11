@@ -1,5 +1,5 @@
 ---
-title: "Self-assembling 1D core/shell microrods by the introduction of additives: a one-pot and shell-tunable method"
+title: "1. Self-assembling 1D core/shell microrods by the introduction of additives: a one-pot and shell-tunable method"
 authors:
 - Jun Xu
 - admin
