@@ -64,6 +64,7 @@ sections:
       filters:
         folders:
           - publication
+        featured_only: true
         #exclude_featured: True
     design:
       view: community/citation_custom
