@@ -1,5 +1,5 @@
 ---
-title: "19. Prediction of Metal-Free Stoner and Mott-Hubbard Magnetism in Triangulene-Based Two-Dimensional Polymers"
+title: "20. Prediction of Metal-Free Stoner and Mott-Hubbard Magnetism in Triangulene-Based Two-Dimensional Polymers"
 authors:
 - admin
 - Thomas Heine
