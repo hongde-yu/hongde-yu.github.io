@@ -1,11 +1,11 @@
 ---
-title: "27. Metal-Free Room-Temperature Ferromagnetism"
+title: "28. Metal-Free Room-Temperature Ferromagnetism"
 authors:
 - admin
 - Thomas Heine
 
 weight: 1000
-date: "2025-10-18T00:00:00Z"
+date: "2025-11-18T00:00:00Z"
 doi: "10.48550/arXiv.2508.17264"
 
 publication_types: ["article-journal"]
