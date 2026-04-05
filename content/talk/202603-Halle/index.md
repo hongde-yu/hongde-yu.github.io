@@ -1,5 +1,5 @@
 ---
-title: PCNano Mini-Workshop"
+title: PCNano Mini-Workshop
 #summary: summary
 date: 2026-03-23
 publishDate: "2026-03-23T00:00:00Z"

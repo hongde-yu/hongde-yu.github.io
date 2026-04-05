@@ -1,5 +1,5 @@
 ---
-title: APS Global Physics Summit 2026, Denver"
+title: APS Global Physics Summit 2026, Denver
 #summary: summary
 date: 2026-03-11
 publishDate: "2026-03-11T00:00:00Z"

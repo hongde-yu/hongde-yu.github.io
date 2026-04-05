@@ -1,5 +1,5 @@
 ---
-title: DPG-Frühjahrstagungen 2026, Dresden"
+title: DPG-Frühjahrstagungen 2026, Dresden
 #summary: summary
 date: 2026-03-11
 publishDate: "2026-03-11T00:00:00Z"
