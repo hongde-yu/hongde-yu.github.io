@@ -1,5 +1,5 @@
 ---
-title: "24. Three-Dimensional Porphyrin and Phthalocyanine-Based Covalent Organic Frameworks for Boosting Urea Oxidation"
+title: "26. Three-Dimensional Porphyrin and Phthalocyanine-Based Covalent Organic Frameworks for Boosting Urea Oxidation"
 authors:
 - Guanyu Qiao
 - Bolun Wang
@@ -18,7 +18,7 @@ date: "2025-08-18T00:00:00Z"
 doi: "10.1002/anie.202508783"
 
 publication_types: ["article-journal"]
-publication: "*Angewandte Chemie International Edition*, 2025, *64*, 34 e202508783."
+publication: "*Angewandte Chemie International Edition*, 2025, *64*, 34, e202508783."
 url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202508783
 
 #tags:
