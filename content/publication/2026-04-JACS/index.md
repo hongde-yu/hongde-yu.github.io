@@ -1,5 +1,5 @@
 ---
-title: "28. Metal-Free Room-Temperature Ferromagnetism"
+title: "28. Metal-Free Ferromagnetism in Triangulene Two-Dimensional Frameworks"
 authors:
 - admin
 - Thomas Heine
