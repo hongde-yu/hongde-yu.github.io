@@ -1,5 +1,5 @@
 ---
-title: First International Symposium & Autumn School on “Chemistry, Physics & Devices of Organic 2D Crystals"
+title: First International Symposium & Autumn School on “Chemistry, Physics & Devices of Organic 2D Crystals", Dresden
 #summary: summary
 date: 2025-10-07
 publishDate: "2025-10-07T00:00:00Z"
