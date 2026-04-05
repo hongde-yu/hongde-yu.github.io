@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: papers
     content:
-      count: 6
+      count: 7
       sort_by: weight
       sort_ascending: true
       title: Recent Selected Publications
